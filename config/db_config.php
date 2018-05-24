@@ -1,7 +1,7 @@
 <?php
-$servername = "127.0.0.1";
-$username = "root";
-$password = "";
+$servername = "managergy.mysql.database.azure.com";
+$username = "dayAdmin@managergy";
+$password = "ch0c0latE";
 $dbname = "shop_manager_db";
 
 
